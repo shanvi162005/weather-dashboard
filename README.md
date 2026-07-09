@@ -3,7 +3,7 @@
 A full-stack weather application that fetches real-time weather data and a 5-day forecast for any city worldwide. Built to practice API integration, asynchronous JavaScript, and backend security best practices.
 
 ![Weather Dashboard Demo] 
-
+<img width="1622" height="956" alt="Screenshot 2026-07-09 183808" src="https://github.com/user-attachments/assets/92115dee-5f28-473c-b19f-1908f25f078c" />
 
 ## 📋 Features
 
