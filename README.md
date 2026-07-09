@@ -32,6 +32,7 @@ A full-stack weather application that fetches real-time weather data and a 5-day
 
 **External API**
 - [OpenWeatherMap API](https://home.openweathermap.org/api_keys)
+- WEATHER_API_KEY= a30863ca8215845f34e8a5bce114b2d1
 
 ## 🏗️ Architecture
 Frontend (HTML/CSS/JS)
