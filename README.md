@@ -19,7 +19,7 @@ A full-stack weather application that fetches real-time weather data and a 5-day
 ## 🛠️ Tech Stack
 
 **Frontend**
-- HTML5, CSS3, Vanilla JavaScript
+- HTML5, CSS3, JavaScript
 - Fetch API for asynchronous requests
 - LocalStorage for persisting saved cities
 
