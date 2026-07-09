@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Weather Dashboard</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Weather Dashboard</h1>
+
+    <div class="search-bar">
+      <input type="text" id="cityInput" placeholder="Enter city name">
+      <button id="searchBtn">Search</button>
+      <button id="saveBtn">☆ Save City</button>
+    </div>
+
+    <div id="loading" class="hidden">Loading...</div>
+    <div id="errorMsg" class="hidden"></div>
+
+    <div id="weatherCard" class="hidden">
+      <h2 id="cityName"></h2>
+      <img id="weatherIcon" src="" alt="weather icon">
+      <p id="temp"></p>
+      <p id="description"></p>
+      <p id="humidity"></p>
+      <p id="wind"></p>
+    </div>
+
+    <div id="forecastContainer" class="forecast-grid"></div>
+
+    <div id="savedCities">
+      <h3>Saved Cities</h3>
+      <ul id="savedList"></ul>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
